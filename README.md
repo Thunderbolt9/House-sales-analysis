@@ -45,8 +45,11 @@ c:\users\name\> jupyter notebook
     to improve the security and privacy of this project!
 - Related projects:
   - My other project:
+  
   Student management system: https://github.com/Thunderbolt9/Student-Management-system
+  
   Covid-19 Data analysis: https://github.com/Thunderbolt9/Covid_19-analysis
+  
   Python 3 specialization (coursera): https://github.com/Thunderbolt9/py3_programming
   
 ## Licensing ⚖️ 
